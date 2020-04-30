@@ -1,0 +1,16 @@
+[always_on]
+ios-xe-mgmt.cisco.com
+sbx-iosxr-mgmt.cisco.com 
+sbx-nxos-mgmt.cisco.com 
+
+
+[ios]
+ios-xe-mgmt.cisco.com ansible_host=64.103.37.51
+
+
+[iosxr]
+sbx-iosxr-mgmt.cisco.com ansible_host=64.103.37.3
+
+
+[nxos]
+sbx-nxos-mgmt.cisco.com ansible_host=64.103.37.14
